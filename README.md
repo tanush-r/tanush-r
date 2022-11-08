@@ -1,5 +1,5 @@
 Hi, I’m @tanush-r.
-I’m interested in Web apps and Android apps.
+I’m interested in Machine Learning and web development.
 I’m currently studying at MVJ College of Engineering.
 
 <!---
