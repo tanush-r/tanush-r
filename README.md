@@ -1,9 +1,9 @@
 # 💫 About Me:
 I am Tanush R, an ML Engineer with experience in data science, GenAI and deep learning with proven ability to lead and inspire teams, foster a collaborative environment, and drive technical excellence.Adept at
-following agile principles to deliver innovative, data-driven, cutting-edge solutions.<br><br>🌍 I'm based in Bangalore, India<br>✉️ You can contact me at tanushr.tech@gmail.com
+following agile principles to deliver innovative, data-driven, cutting-edge solutions.<br><br>🌍 I'm based in Galway, Ireland<br>✉️ You can contact me at tanushr.tech@gmail.com
 
 ## 🌐 Portfolio:
-You can visit my portfolio website [here](https://www.tanush.site)
+You can visit my portfolio website [here](https://www.tanush-r.github.io)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanush-r-843b27216/) 
